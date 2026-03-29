@@ -41,5 +41,7 @@ To write a Python program to perform addition and division operations using a cl
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/29ec2cfb-a7cf-4361-9828-066da799c70d)
 
 ### RESULT
+Thus the Python program to perform addition and division operations using a class is executed successfully.
