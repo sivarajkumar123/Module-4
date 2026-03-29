@@ -32,5 +32,13 @@ To write a Python program to print the size of a dictionary using `getsizeof()` 
 
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/2125adee-113a-4659-b5dc-7e87d358d206)
+
+
+
+
+
 
 ### RESULT
+
+Thus the Python program to print the size of a dictionary using getsizeof() from the sys module is executed successfully.
