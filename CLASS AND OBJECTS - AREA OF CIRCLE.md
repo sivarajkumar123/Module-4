@@ -34,10 +34,10 @@ To write a Python program to take the radius from the user and find the area of 
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/0ebdfd7e-7ce0-4307-9a37-7fe68221787f)
 
 
 ### RESULT
 
-
+Thus a Python function that accepts a string and forms a new string by reversing the characters from the 4th position to the 10th position with alternate characters, and then prints the new string has been implemented and executed.
 
