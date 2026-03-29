@@ -30,5 +30,6 @@ Add Your Code Here
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/a8c00f9b-cc6b-4961-99a4-09ef6f0e5862)
 ### RESULT
+Thus the Python program that prompts the user for a list of grades separated by commas, splits the string into individual grades, and uses exception handling to inform the user if the values they entered cannot be converted to integers is executed successfully.
